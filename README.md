@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Professional AI Grading System
 
 A cutting-edge, AI-powered exam grading solution that uses Google's Gemini API to automatically grade student papers with teacher-like precision and fairness.
@@ -433,3 +434,7 @@ If this project helped you, please give it a ⭐ on GitHub!
 ---
 
 Made with ❤️ and ☕
+=======
+# GradingEye
+academic ai project to help teachers mark students answer sheets
+>>>>>>> 6a55e70c76fa100facb10a03b7701b73499a5188
