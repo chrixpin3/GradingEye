@@ -1,0 +1,332 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4531
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(Here's the corrected response with marks and explanations, presented) Tj
+T* (as if I were grading it.) Tj
+T* () Tj
+T* (---) Tj
+T* () Tj
+T* (**Student's Answer Sheet \(with corrections and marks\)**) Tj
+T* () Tj
+T* (**07. Complete the paragraph below by using the terms provided in) Tj
+T* (brackets: \(Panels, Save, Preset, Essentials, Layout, Switch\): \(3) Tj
+T* (Marks\)**) Tj
+T* () Tj
+T* (“In Adobe Illustrator, the workspace consists of various tools and) Tj
+T* (\(1\) **Layout** that help users create and edit) Tj
+T* (graphics efficiently. Illustrator allows users to) Tj
+T* (\(2\) **Switch** between different workspaces) Tj
+T* (based on their needs. Users can choose from predefined \(3\) **Preset**) Tj
+T* (workspaces like \(4\) **Essentials** or create their own personalized) Tj
+T* (setup. To keep a customized workspace, users must \(5\) **Save**) Tj
+T* (it, ensuring their preferred \(6\) **Panels** remains available.”) Tj
+T* () Tj
+T* (**Marks for Q7:** 3/3) Tj
+T* () Tj
+T* (**Explanation of Corrections for Q7:**) Tj
+T* () Tj
+T* (*   **\(1\) Layout:** The term "Layout" refers to the arrangement of) Tj
+T* (elements on the screen, which directly relates to how users create and) Tj
+T* (edit graphics efficiently within a workspace.) Tj
+T* (*   **\(2\) Switch:** The sentence discusses the ability to move between) Tj
+T* (different workspaces, and "Switch" is the appropriate verb for this action.) Tj
+T* (*   **\(3\) Preset:** "Preset" accurately describes workspaces that are) Tj
+T* (already configured and available for users to choose from.) Tj
+T* (*   **\(4\) Essentials:** "Essentials" is a common and well-known preset) Tj
+T* (workspace in Adobe applications, fitting the context of examples of) Tj
+T* (predefined workspaces.) Tj
+T* (*   **\(5\) Save:** To retain a customized workspace for future use, users) Tj
+T* (need to "Save" it.) Tj
+T* (*   **\(6\) Panels:** "Panels" are the individual windows within a) Tj
+T* (workspace that contain tools and options. Saving a workspace ensures) Tj
+T* (that the preferred arrangement of these panels is kept.) Tj
+T* () Tj
+T* (---) Tj
+T* () Tj
+T* (**08. Determine whether the statements below are True \(T\) or False \(F\):) Tj
+T* (\(5 Marks\)**) Tj
+T* () Tj
+T* (a. The package.json file stores all installed dependencies in a Vue) Tj
+T* (   project. **\(T\)**) Tj
+T* (b. Vue.js is a backend framework. **\(F\)**) Tj
+T* (c. The Vue Router package must be installed separately in Vue) Tj
+T* (   projects. **\(T\)**) Tj
+T* (d. Vuex and Pinia are both used for state management in Vue. **\(T\)**) Tj
+T* (e. Vue uses JSX for template rendering by default. **\(F\)**) Tj
+T* () Tj
+T* (**Marks for Q8:** 5/5) Tj
+T* () Tj
+T* (**Explanation of Corrections for Q8:**) Tj
+T* () Tj
+T* (*   **a. True:** The `package.json` file is the manifest file for a Node.js) Tj
+T* (project \(and thus for most Vue projects\), and it lists all the project's) Tj
+T* (dependencies.) Tj
+T* (*   **b. False:** Vue.js is a *frontend* framework, used for building user) Tj
+T* (interfaces. Backend frameworks handle server-side logic and database) Tj
+T* (interactions.) Tj
+T* (*   **c. True:** While Vue offers many core features out-of-the-box,) Tj
+T* (routing is typically handled by an external, official package called Vue) Tj
+T* (Router, which needs to be installed.) Tj
+T* (*   **d. True:** Both Vuex and Pinia are popular state management) Tj
+T* (libraries specifically designed for Vue.js applications.) Tj
+T* (*   **e. False:** Vue's default template syntax uses HTML-like) Tj
+T* (templates, not JSX. JSX is an option that can be integrated, but it's not) Tj
+T* (the default.) Tj
+T* () Tj
+T* (---) Tj
+T* () Tj
+T* (**Overall Marks:**) Tj
+T* () Tj
+T* (*   **Question 07:** 3/3 Marks) Tj
+T* (*   **Question 08:** 5/5 Marks) Tj
+T* (*   **Total Marks:** 8/8 Marks) Tj
+T* () Tj
+T* (**Total Marks Obtained per 100%:** **100%** \(8 out of 8 possible) Tj
+T* (marks\)) Tj
+T* () Tj
+T* (---) Tj
+T* () Tj
+T* (**Summary of Student's Performance:**) Tj
+T* () Tj
+T* (The student has demonstrated a strong understanding of the concepts) Tj
+T* (tested in both questions. All answers are correct and accurately filled in.) Tj
+T* (The student has successfully completed the fill-in-the-blanks question) Tj
+T* (by choosing the most appropriate terms from the given list and has) Tj
+T* (correctly identified the truthfulness of the statements regarding Vue.js) Tj
+T* (development. Excellent work!) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 4.0.0)
+/CreationDate (D:20260120165925+02'00')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000004735 00000 n 
+0000006552 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004792 00000 n 
+0000004917 00000 n 
+0000005047 00000 n 
+0000005180 00000 n 
+0000005317 00000 n 
+0000005440 00000 n 
+0000005569 00000 n 
+0000005701 00000 n 
+0000005837 00000 n 
+0000005965 00000 n 
+0000006092 00000 n 
+0000006221 00000 n 
+0000006354 00000 n 
+0000006456 00000 n 
+0000006800 00000 n 
+0000006886 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <6A88714C9F8D940E7692551C06063C82> <6A88714C9F8D940E7692551C06063C82> ]
+>>
+startxref
+6990
+%%EOF
