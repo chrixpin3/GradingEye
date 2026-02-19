@@ -1,3 +1,7 @@
+"engines": {
+  "node": ">=18"
+},
+
 {
   "name": "ai-solver",
   "version": "1.0.0",
