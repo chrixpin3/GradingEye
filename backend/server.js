@@ -458,7 +458,7 @@ User Question: ${message}
   }
 });
 
-app.listen(5000, () => {
+app.listen(process.env.port || 5000, () => {
   console.log("🚀 Server running on http://localhost:5000");
 
 });
